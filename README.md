@@ -17,7 +17,7 @@
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=er-arrow&theme=tokyonight&no-frame=false&no-bg=true&margin-w=4)
 
-### 🔝 Top Contributed Repo
+### 🐍 Snake eat Contribution Graph to healthy 
 ![snake gif](https://github.com/er-arrow/er-arrow/blob/output/github-snake.svg)
 
 ---
