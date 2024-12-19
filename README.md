@@ -18,7 +18,7 @@
 ![](https://github-profile-trophy.vercel.app/?username=er-arrow&theme=tokyonight&no-frame=false&no-bg=true&margin-w=4)
 
 ### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=er-arrow&limit=5&theme=dark&combine_all_yearly_contributions=true)
+![snake gif](https://github.com/er-arrow/er-arrow/blob/output/github-snake.svg)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=er-arrow&icon=6&color=12)](https://visitcount.itsvg.in)
